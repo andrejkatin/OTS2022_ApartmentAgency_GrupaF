@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2022_ApartmentAgency", "OTS2022_ApartmentAgency\OTS2022_ApartmentAgency.csproj", "{45625645-13C9-45BA-8C00-A22E5F89825D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2022_ApartmentAgency.Test", "OTS2022_ApartmentAgency.Test\OTS2022_ApartmentAgency.Test.csproj", "{8C362A8D-D34C-45FE-857B-2BE12F645E43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45625645-13C9-45BA-8C00-A22E5F89825D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45625645-13C9-45BA-8C00-A22E5F89825D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45625645-13C9-45BA-8C00-A22E5F89825D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45625645-13C9-45BA-8C00-A22E5F89825D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C362A8D-D34C-45FE-857B-2BE12F645E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C362A8D-D34C-45FE-857B-2BE12F645E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C362A8D-D34C-45FE-857B-2BE12F645E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C362A8D-D34C-45FE-857B-2BE12F645E43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C5BC6E7-2B81-4BC8-9275-B95725E0904A}
+	EndGlobalSection
+EndGlobal
